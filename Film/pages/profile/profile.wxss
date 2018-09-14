@@ -1,0 +1,43 @@
+/* pages/profile/profile.wxss */
+page{
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+  background-color: #f9f9f9;
+  font-family: -apple-system,'Helvetica Neue', 'Helvetica','Microsoft YaHei',sans-serif
+}
+
+.container{
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  flex-direction: column;
+  box-sizing:  border-box;
+  background-color: #f1f2f3;
+}
+
+.header{
+  padding: 20rpx;
+  color: #999;
+  font-size: 30rpx;
+  text-align: center;
+}
+
+.normal {
+  color: #999;
+  font-size: 30rpx;
+  text-align: center;
+}
+
+.user {
+  display: flex;
+  flex-direction: column;
+  justify-content:center;
+  align-items: center;
+}
+.user-avatar {
+  width: 80%;
+  height: 200rpx;
+  margin: 20rpx;
+}

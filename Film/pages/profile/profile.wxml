@@ -1,0 +1,8 @@
+<view class='container'>
+ <view class='user'>
+   <image class='user-avatar' src="../../images/logo.png" mode='aspectFit'/>
+    <text class='header'>基于豆瓣开放平台</text>
+    <text class='normal' >关于 觅影街</text>
+    <text class='header' >v 1.0.3</text>
+ </view>
+</view>

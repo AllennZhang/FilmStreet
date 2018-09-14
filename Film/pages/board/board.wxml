@@ -1,0 +1,38 @@
+<view class='container'>
+  <!-- 头部Banner start-->
+   <view class='slide'>
+     <swiper indicator-dots='{{indicatorDots}}' indicator-color='{{indicatorColor}}' indicator-active-color='{{indicatorActivieColor}}'  autoplay='{{autoPlay}}' interval='{{interval}}' duration='{{duration}}'>
+       <!-- 使用block wx:for=[array]循环生成列表数据，{{}}表示数据绑定 -->
+       <block wx:for="{{boards[0].movies}}" wx:key='id'>
+         <swiper-item>
+         <!-- 导航  url:跳转链接-->
+            <navigator url='../item/item?id={{item.id}}'>
+            <image src='{{item.images.large}}' mode='aspectFill' class='image'/> 
+            </navigator>
+         </swiper-item>
+       </block>
+     </swiper>
+   </view>
+   <!-- 头部banner  end -->
+   <!-- 内容部分  分为多个块，每个块是一个水平的scrollview-->
+   <view class='board' scroll-y='true'>
+      <block wx:for='{{boards}}' wx:key='key'>
+        <view class='board-item'>
+            <view class='title'>
+              <text>{{item.title}}</text>
+              <image src='../../images/arrowright.png' mode='aspectFill'/>
+            </view>
+          <scroll-view class='content' scroll-x='true'>
+            <view class='inner'>
+              <navigator wx:for='{{item.movies}}' wx:key='id' url='../item/item?id={{!item.subject? item.id : item.subject.id}}'>
+                <view class='movie-item'>
+                   <image src='{{!item.subject ? item.images.large:item.subject.images.large}}' mode='aspectFill'/>
+                   <text>{{!item.subject ? item.title : item.subject.title}}</text>
+                </view>
+              </navigator>
+            </view>
+          </scroll-view>
+        </view>
+      </block>
+   </view>
+</view>

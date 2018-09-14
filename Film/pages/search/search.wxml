@@ -1,0 +1,56 @@
+<view class='container'>
+   <!-- {{bloopers[0].resource_url}} -->
+    <view class='banner'>
+     <video id='myVideo' src="https://file.bncry.cn/other/sample.mp4" binderror="videoErrorCallback"   controls='true'  style='width:100%;height:225px;margin:0'>
+        <cover-image src="{{movie.images.medium}}"  hidden='{{hideCover}}' class='poster-cover' mode='aspectFill' bindtap='playVideo'/>
+     </video>
+          <!-- <image src="../../images/play.png" mode='aspectFit' class='play-button' bindtap='playVideo' hidden='{{hideCover}}'/> -->
+ <!-- 由于原生组件脱离在 WebView 渲染流程外，因此在使用时有以下限制：
+原生组件的层级是最高的，所以页面中的其他组件无论设置 z-index 为多少，都无法盖在原生组件上。
+后插入的原生组件可以覆盖之前的原生组件。
+原生组件还无法在 scroll-view、swiper、picker-view、movable-view 中使用。
+部分CSS样式无法应用于原生组件，例如：
+无法对原生组件设置 CSS 动画
+无法定义原生组件为 position: fixed
+不能在父级节点使用 overflow: hidden 来裁剪原生组件的显示区域
+原生组件的事件监听不能使用 bind:eventname 的写法，只支持 bindeventname。原生组件也不支持 catch 和 capture 的事件绑定方式
+在iOS下，原生组件暂时不支持触摸相关事件 -->
+     </view>
+ <image src="../../images/play.png" mode='aspectFit' class='play-button' bindtap='playVideo' hidden='{{hideCover}}'/>
+    <text class='first_title'>热门评论</text>
+   <scroll-view scroll-y='true'>
+   <!-- 热门评论 -->
+     <view  wx:for="{{movie.popular_comments}}" wx:key="id" class='item'>
+      <view class='reviewer'>
+         <view class='flexp3'> 
+           <image src="{{item.author.avatar}}"  class="avator"  mode='aspectFit'/>
+           <text  class='name'>{{item.author.name}}</text>
+          </view> 
+            <view class='flexp1'>
+            <image src='../../images/rating.png' class='soupport' hidden='{{item.rating.value<=4}}'/>
+            <image src='../../images/rating.png' class='soupport' hidden='{{item.rating.value  <3 }}'/>
+            <image src='../../images/rating.png' class='soupport' hidden='{{item.rating.value<2}}'/>
+            <image src='../../images/rating.png' class='soupport' hidden='{{item.rating.value<1}}'/>
+            <image src='../../images/rating.png' class='soupport'/>
+            <text class='star-text'>{{item.rating.value}}分</text>
+             <image src='../../images/star.png' class='soupport' mode='aspectFit'/>
+             <text class='numbers'>{{item.useful_count}}</text>
+            </view>
+        </view> 
+        <text class='comment'>{{item.content}}</text>
+         <text class='info'>{{item.created_at}}</text>
+      </view>
+      <!-- 观后感 -->
+     <text class='first_title'>热门主题</text>
+     <view  wx:for="{{movie.popular_reviews}}" wx:key="id" class='item'>
+      <view class='reviewer'>
+         <view class='flexp3'> 
+           <image src="{{item.author.avatar}}"  class="avator"  mode='aspectFit'/>
+           <text  class='name'>{{item.author.name}}</text>
+          </view> 
+        </view> 
+            <text class='info'>主题：{{item.title}}</text>
+        <text class='comment'>{{item.summary}}</text>
+      </view>
+   </scroll-view>
+</view>

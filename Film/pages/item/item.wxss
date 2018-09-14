@@ -1,0 +1,155 @@
+/* pages/item/item.wxss */
+page{
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+  background-color: #f9f9f9;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+.container{
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+
+.poster_header{
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(87, 49, 87, 0.467);
+  width:100%
+}
+
+.meta{
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+  /* padding: 50rpx 40rpx */
+}
+
+.poster{
+  width: 100%;
+  height: 800rpx;
+  /* margin: auto */
+  margin: 20rpx;
+}
+
+.poster_title{
+   display: flex;
+   flex-direction: row;
+}
+.poster_title .main{
+   display: flex;
+   flex-direction: column;
+   flex: 3;
+   padding: 20rpx
+}
+
+.poster_title .rating{
+   display: flex;
+   flex-direction: column;
+   flex: 1;
+   border: 10rpx;
+   font-size: 20rpx;
+   text-align: center;
+   justify-content: center;
+   background-color: #f1f2f3;
+   align-items: center;
+   padding: 10rpx;
+   justify-items: center
+}
+
+.title{
+  font-style: 42rpx;
+  color: #222;
+}
+
+.info{
+  font-size: 18rpx;
+  color: #444;
+  width: 80%;
+}
+
+.rating_label{
+  font-size: 20rpx;
+  font-style: blod;
+  color: #444;
+  width: 80%;
+  margin-top: 20rpx
+}
+
+.summary{
+  width: 80%;
+  margin: 30rpx auto;
+}
+
+.label{
+  display: flex;
+  font-size: 30rpx;
+  margin-bottom: 20rpx;
+}
+
+.content{
+  color: #555;
+  font-size: 20rpx;
+  padding: 16rpx;
+}
+
+.background{
+  position: fixed;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  height: 100%;
+  width: 100%;
+  z-index: -1000;
+  opacity: .1;
+}
+
+.horizontal-srcollview {
+  height: 400rpx;
+}
+.horizontal_block{
+  display: flex;
+  flex-direction: row
+}
+
+.movie-item{
+  display: flex;
+  flex-direction: column;
+  width: 180rpx;
+  margin: 10rpx;
+}
+.movie-item image{
+  width: 180rpx;
+  height: 250rpx;
+}
+.horizontal-photos {
+  height: 300rpx;
+  margin-bottom: 50rpx;
+}
+
+.photo-item {
+  display: flex;
+  flex-direction: column;
+  width: 400rpx;
+  margin: 10rpx;
+}
+.photo-item photos{
+  width: 400rpx;
+  height: 300rpx;
+}
+
+.soupport{
+  width: 30rpx;
+  height: 30rpx;
+}
+
+.first-label{
+  display: flex;
+  font-size: 30rpx;
+  margin: 20rpx;
+}

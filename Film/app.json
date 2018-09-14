@@ -1,0 +1,46 @@
+{
+  "pages": [
+    "pages/board/board",
+    "pages/search/search",
+    "pages/profile/profile",
+    "pages/item/item"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#40586d",
+    "navigationBarTitleText": "豆瓣",
+    "navigationBarTextStyle": "dark",
+    "enablePullDownRefresh":false
+  },
+  "tabBar": {
+    "color": "#c0c0c0",
+    "selectedColor": "#fff",
+    "borderStyle": "black",
+    "backgroundColor": "#35495e",
+    "list": [
+      {
+        "text": "榜单",
+        "pagePath": "pages/board/board",
+        "iconPath": "images/board.png",
+        "selectedIconPath": "images/board-actived.png"
+      },
+      {
+        "text": "发现",
+        "pagePath": "pages/search/search",
+        "iconPath": "images/search.png",
+        "selectedIconPath": "images/search-actived.png"
+      },
+      {
+        "text": "我的",
+        "pagePath": "pages/profile/profile",
+        "iconPath": "images/profile.png",
+        "selectedIconPath": "images/profile-actived.png"
+      }
+    ] 
+  },
+  "networkTimeOut":{
+    "request":2000,
+    "downloadFile":2000
+  }
+
+}

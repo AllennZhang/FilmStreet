@@ -1,0 +1,715 @@
+{
+  "key":"正在热映",
+  "count": 8,
+  "start": 0,
+  "total": 26,
+  "subjects": [
+    {
+      "rating": {
+        "max": 10,
+        "average": 7.5,
+        "details": {
+          "1": 47.0,
+          "3": 6138.0,
+          "2": 534.0,
+          "5": 2881.0,
+          "4": 9769.0
+        },
+        "stars": "40",
+        "min": 0
+      },
+      "genres": [
+        "\u52a8\u4f5c",
+        "\u79d1\u5e7b",
+        "\u5192\u9669"
+      ],
+      "title": "\u8681\u4eba2\uff1a\u9ec4\u8702\u5973\u73b0\u8eab",
+      "casts": [
+        {
+          "avatars": {
+            "small": "https://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1501385708.56.jpg",
+            "large": "https://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1501385708.56.jpg",
+            "medium": "https://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1501385708.56.jpg"
+          },
+          "name_en": "Paul Rudd",
+          "name": "\u4fdd\u7f57\u00b7\u8def\u5fb7",
+          "alt": "https:\/\/movie.douban.com\/celebrity\/1002667\/",
+          "id": "1002667"
+        },
+        {
+          "avatars": {
+            "small": "https://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p4077.jpg",
+            "large": "https://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p4077.jpg",
+            "medium": "https://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p4077.jpg"
+          },
+          "name_en": "Evangeline Lilly",
+          "name": "\u4f0a\u4e07\u6770\u7433\u00b7\u8389\u8389",
+          "alt": "https:\/\/movie.douban.com\/celebrity\/1021963\/",
+          "id": "1021963"
+        },
+        {
+          "avatars": {
+            "small": "https://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1454118774.76.jpg",
+            "large": "https://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1454118774.76.jpg",
+            "medium": "https://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1454118774.76.jpg"
+          },
+          "name_en": "Michael Pe\u00f1a",
+          "name": "\u8fc8\u514b\u5c14\u00b7\u4f69\u7eb3",
+          "alt": "https:\/\/movie.douban.com\/celebrity\/1131634\/",
+          "id": "1131634"
+        }
+      ],
+      "durations": [
+        "118\u5206\u949f",
+        "119\u5206\u949f(\u4e2d\u56fd\u5927\u9646)"
+      ],
+      "collect_count": 162970,
+      "mainland_pubdate": "2018-08-24",
+      "has_video": false,
+      "original_title": "Ant-Man and the Wasp",
+      "subtype": "movie",
+      "directors": [
+        {
+          "avatars": {
+            "small": "https://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p38984.jpg",
+            "large": "https://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p38984.jpg",
+            "medium": "https://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p38984.jpg"
+          },
+          "name_en": "Peyton Reed",
+          "name": "\u4f69\u987f\u00b7\u91cc\u5fb7",
+          "alt": "https:\/\/movie.douban.com\/celebrity\/1009586\/",
+          "id": "1009586"
+        }
+      ],
+      "pubdates": [
+        "2018-07-06(\u7f8e\u56fd)",
+        "2018-08-24(\u4e2d\u56fd\u5927\u9646)"
+      ],
+      "year": "2018",
+      "images": {
+        "small": "https://img1.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2529389608.jpg",
+        "large": "https://img1.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2529389608.jpg",
+        "medium": "https://img1.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2529389608.jpg"
+      },
+      "alt": "https:\/\/movie.douban.com\/subject\/26636712\/",
+      "id": "26636712"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "average": 5.4,
+        "details": {
+          "1": 44.0,
+          "3": 141.0,
+          "2": 114.0,
+          "5": 24.0,
+          "4": 42.0
+        },
+        "stars": "30",
+        "min": 0
+      },
+      "genres": [
+        "\u559c\u5267",
+        "\u52a8\u4f5c"
+      ],
+      "title": "\u5927\u5e08\u5144",
+      "casts": [
+        {
+          "avatars": {
+            "small": "https://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p10695.jpg",
+            "large": "https://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p10695.jpg",
+            "medium": "https://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p10695.jpg"
+          },
+          "name_en": "Donnie Yen",
+          "name": "\u7504\u5b50\u4e39",
+          "alt": "https:\/\/movie.douban.com\/celebrity\/1025194\/",
+          "id": "1025194"
+        },
+        {
+          "avatars": {
+            "small": "https://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1352270627.38.jpg",
+            "large": "https://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1352270627.38.jpg",
+            "medium": "https://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1352270627.38.jpg"
+          },
+          "name_en": "Joe Chen",
+          "name": "\u9648\u4e54\u6069",
+          "alt": "https:\/\/movie.douban.com\/celebrity\/1022095\/",
+          "id": "1022095"
+        },
+        {
+          "avatars": {
+            "small": "https://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1410928316.73.jpg",
+            "large": "https://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1410928316.73.jpg",
+            "medium": "https://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1410928316.73.jpg"
+          },
+          "name_en": "Kang Yu",
+          "name": "\u55bb\u4ea2",
+          "alt": "https:\/\/movie.douban.com\/celebrity\/1339113\/",
+          "id": "1339113"
+        }
+      ],
+      "durations": [
+        "100\u5206\u949f"
+      ],
+      "collect_count": 8079,
+      "mainland_pubdate": "2018-08-24",
+      "has_video": false,
+      "original_title": "\u5927\u5e2b\u5144",
+      "subtype": "movie",
+      "directors": [
+        {
+          "avatars": {
+            "small": "https://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1509265076.8.jpg",
+            "large": "https://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1509265076.8.jpg",
+            "medium": "https://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1509265076.8.jpg"
+          },
+          "name_en": "Jia Wei Kan",
+          "name": "\u961a\u5bb6\u4f1f",
+          "alt": "https:\/\/movie.douban.com\/celebrity\/1360179\/",
+          "id": "1360179"
+        }
+      ],
+      "pubdates": [
+        "2018-08-24(\u4e2d\u56fd\u5927\u9646)"
+      ],
+      "year": "2018",
+      "images": {
+        "small": "https://img1.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2528842218.jpg",
+        "large": "https://img1.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2528842218.jpg",
+        "medium": "https://img1.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2528842218.jpg"
+      },
+      "alt": "https:\/\/movie.douban.com\/subject\/27201353\/",
+      "id": "27201353"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "average": 6.0,
+        "details": {
+          "1": 346.0,
+          "3": 5961.0,
+          "2": 1845.0,
+          "5": 349.0,
+          "4": 2009.0
+        },
+        "stars": "30",
+        "min": 0
+      },
+      "genres": [
+        "\u52a8\u4f5c",
+        "\u79d1\u5e7b",
+        "\u60ca\u609a"
+      ],
+      "title": "\u5de8\u9f7f\u9ca8",
+      "casts": [
+        {
+          "avatars": {
+            "small": "https://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p424.jpg",
+            "large": "https://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p424.jpg",
+            "medium": "https://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p424.jpg"
+          },
+          "name_en": "Jason Statham",
+          "name": "\u6770\u68ee\u00b7\u65af\u5766\u68ee",
+          "alt": "https:\/\/movie.douban.com\/celebrity\/1049484\/",
+          "id": "1049484"
+        },
+        {
+          "avatars": {
+            "small": "https://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p37168.jpg",
+            "large": "https://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p37168.jpg",
+            "medium": "https://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p37168.jpg"
+          },
+          "name_en": "Bingbing Li",
+          "name": "\u674e\u51b0\u51b0",
+          "alt": "https:\/\/movie.douban.com\/celebrity\/1040990\/",
+          "id": "1040990"
+        },
+        {
+          "avatars": {
+            "small": "https://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p9747.jpg",
+            "large": "https://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p9747.jpg",
+            "medium": "https://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p9747.jpg"
+          },
+          "name_en": "Rainn Wilson",
+          "name": "\u96f7\u6069\u00b7\u5a01\u5c14\u68ee",
+          "alt": "https:\/\/movie.douban.com\/celebrity\/1004593\/",
+          "id": "1004593"
+        }
+      ],
+      "durations": [
+        "115\u5206\u949f(\u4e2d\u56fd\u5927\u9646)",
+        "113\u5206\u949f"
+      ],
+      "collect_count": 126762,
+      "mainland_pubdate": "2018-08-10",
+      "has_video": false,
+      "original_title": "The Meg",
+      "subtype": "movie",
+      "directors": [
+        {
+          "avatars": {
+            "small": "https://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1379831737.28.jpg",
+            "large": "https://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1379831737.28.jpg",
+            "medium": "https://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1379831737.28.jpg"
+          },
+          "name_en": "Jon Turteltaub",
+          "name": "\u4e54\u00b7\u5fb7\u7279\u675c\u5df4",
+          "alt": "https:\/\/movie.douban.com\/celebrity\/1022710\/",
+          "id": "1022710"
+        }
+      ],
+      "pubdates": [
+        "2018-08-10(\u7f8e\u56fd)",
+        "2018-08-10(\u4e2d\u56fd\u5927\u9646)"
+      ],
+      "year": "2018",
+      "images": {
+        "small": "https://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2530572643.jpg",
+        "large": "https://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2530572643.jpg",
+        "medium": "https://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2530572643.jpg"
+      },
+      "alt": "https:\/\/movie.douban.com\/subject\/26426194\/",
+      "id": "26426194"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "average": 7.0,
+        "details": {
+          "1": 137.0,
+          "3": 2389.0,
+          "2": 605.0,
+          "5": 867.0,
+          "4": 2550.0
+        },
+        "stars": "35",
+        "min": 0
+      },
+      "genres": [
+        "\u559c\u5267",
+        "\u5947\u5e7b"
+      ],
+      "title": "\u5feb\u628a\u6211\u54e5\u5e26\u8d70",
+      "casts": [
+        {
+          "avatars": {
+            "small": "https://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1465826349.1.jpg",
+            "large": "https://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1465826349.1.jpg",
+            "medium": "https://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1465826349.1.jpg"
+          },
+          "name_en": "Zifeng Zhang",
+          "name": "\u5f20\u5b50\u67ab",
+          "alt": "https:\/\/movie.douban.com\/celebrity\/1274254\/",
+          "id": "1274254"
+        },
+        {
+          "avatars": {
+            "small": "https://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1523448357.59.jpg",
+            "large": "https://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1523448357.59.jpg",
+            "medium": "https://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1523448357.59.jpg"
+          },
+          "name_en": "Yuchang Peng",
+          "name": "\u5f6d\u6631\u7545",
+          "alt": "https:\/\/movie.douban.com\/celebrity\/1354775\/",
+          "id": "1354775"
+        },
+        {
+          "avatars": {
+            "small": "https://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1450954931.7.jpg",
+            "large": "https://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1450954931.7.jpg",
+            "medium": "https://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1450954931.7.jpg"
+          },
+          "name_en": "Jinmai Zhao",
+          "name": "\u8d75\u4eca\u9ea6",
+          "alt": "https:\/\/movie.douban.com\/celebrity\/1337036\/",
+          "id": "1337036"
+        }
+      ],
+      "durations": [
+        "115\u5206\u949f"
+      ],
+      "collect_count": 61237,
+      "mainland_pubdate": "2018-08-17",
+      "has_video": false,
+      "original_title": "\u5feb\u628a\u6211\u54e5\u5e26\u8d70",
+      "subtype": "movie",
+      "directors": [
+        {
+          "avatars": {
+            "small": "https://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p13508.jpg",
+            "large": "https://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p13508.jpg",
+            "medium": "https://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p13508.jpg"
+          },
+          "name_en": "Fenfen Cheng",
+          "name": "\u90d1\u82ac\u82ac",
+          "alt": "https:\/\/movie.douban.com\/celebrity\/1276077\/",
+          "id": "1276077"
+        }
+      ],
+      "pubdates": [
+        "2018-08-17(\u4e2d\u56fd\u5927\u9646)"
+      ],
+      "year": "2018",
+      "images": {
+        "small": "https://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2531080870.jpg",
+        "large": "https://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2531080870.jpg",
+        "medium": "https://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2531080870.jpg"
+      },
+      "alt": "https:\/\/movie.douban.com\/subject\/30122633\/",
+      "id": "30122633"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "average": 7.3,
+        "details": {
+          "1": 611.0,
+          "3": 12926.0,
+          "2": 2366.0,
+          "5": 5260.0,
+          "4": 17810.0
+        },
+        "stars": "40",
+        "min": 0
+      },
+      "genres": [
+        "\u5267\u60c5",
+        "\u559c\u5267"
+      ],
+      "title": "\u4e00\u51fa\u597d\u620f",
+      "casts": [
+        {
+          "avatars": {
+            "small": "https://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1656.jpg",
+            "large": "https://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1656.jpg",
+            "medium": "https://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1656.jpg"
+          },
+          "name_en": "Bo Huang",
+          "name": "\u9ec4\u6e24",
+          "alt": "https:\/\/movie.douban.com\/celebrity\/1274242\/",
+          "id": "1274242"
+        },
+        {
+          "avatars": {
+            "small": "https://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p727.jpg",
+            "large": "https://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p727.jpg",
+            "medium": "https://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p727.jpg"
+          },
+          "name_en": "Qi Shu",
+          "name": "\u8212\u6dc7",
+          "alt": "https:\/\/movie.douban.com\/celebrity\/1138320\/",
+          "id": "1138320"
+        },
+        {
+          "avatars": {
+            "small": "https://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1356403251.95.jpg",
+            "large": "https://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1356403251.95.jpg",
+            "medium": "https://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1356403251.95.jpg"
+          },
+          "name_en": "Baoqiang Wang",
+          "name": "\u738b\u5b9d\u5f3a",
+          "alt": "https:\/\/movie.douban.com\/celebrity\/1274388\/",
+          "id": "1274388"
+        }
+      ],
+      "durations": [
+        "134\u5206\u949f"
+      ],
+      "collect_count": 547652,
+      "mainland_pubdate": "2018-08-10",
+      "has_video": false,
+      "original_title": "\u4e00\u51fa\u597d\u620f",
+      "subtype": "movie",
+      "directors": [
+        {
+          "avatars": {
+            "small": "https://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1656.jpg",
+            "large": "https://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1656.jpg",
+            "medium": "https://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1656.jpg"
+          },
+          "name_en": "Bo Huang",
+          "name": "\u9ec4\u6e24",
+          "alt": "https:\/\/movie.douban.com\/celebrity\/1274242\/",
+          "id": "1274242"
+        }
+      ],
+      "pubdates": [
+        "2018-08-10(\u4e2d\u56fd\u5927\u9646)"
+      ],
+      "year": "2018",
+      "images": {
+        "small": "https://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2529571873.jpg",
+        "large": "https://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2529571873.jpg",
+        "medium": "https://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2529571873.jpg"
+      },
+      "alt": "https:\/\/movie.douban.com\/subject\/26985127\/",
+      "id": "26985127"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "average": 6.9,
+        "details": {
+          "1": 51.0,
+          "3": 2542.0,
+          "2": 420.0,
+          "5": 566.0,
+          "4": 1949.0
+        },
+        "stars": "35",
+        "min": 0
+      },
+      "genres": [
+        "\u559c\u5267",
+        "\u52a8\u753b",
+        "\u5947\u5e7b"
+      ],
+      "title": "\u7cbe\u7075\u65c5\u793e3\uff1a\u75af\u72c2\u5047\u671f",
+      "casts": [
+        {
+          "avatars": {
+            "small": "https://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p28807.jpg",
+            "large": "https://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p28807.jpg",
+            "medium": "https://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p28807.jpg"
+          },
+          "name_en": "Adam Sandler",
+          "name": "\u4e9a\u5f53\u00b7\u6851\u5fb7\u52d2",
+          "alt": "https:\/\/movie.douban.com\/celebrity\/1054523\/",
+          "id": "1054523"
+        },
+        {
+          "avatars": {
+            "small": "https://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p36102.jpg",
+            "large": "https://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p36102.jpg",
+            "medium": "https://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p36102.jpg"
+          },
+          "name_en": "Kathryn Hahn",
+          "name": "\u51ef\u745f\u7433\u00b7\u54c8\u6069",
+          "alt": "https:\/\/movie.douban.com\/celebrity\/1022649\/",
+          "id": "1022649"
+        },
+        {
+          "avatars": {
+            "small": "https://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1091.jpg",
+            "large": "https://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1091.jpg",
+            "medium": "https://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1091.jpg"
+          },
+          "name_en": "Steve Buscemi",
+          "name": "\u53f2\u8482\u592b\u00b7\u5e03\u897f\u5bc6",
+          "alt": "https:\/\/movie.douban.com\/celebrity\/1054409\/",
+          "id": "1054409"
+        }
+      ],
+      "durations": [
+        "98\u5206\u949f"
+      ],
+      "collect_count": 47196,
+      "mainland_pubdate": "2018-08-17",
+      "has_video": false,
+      "original_title": "Hotel Transylvania 3: Summer Vacation",
+      "subtype": "movie",
+      "directors": [
+        {
+          "avatars": {
+            "small": "https://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p24281.jpg",
+            "large": "https://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p24281.jpg",
+            "medium": "https://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p24281.jpg"
+          },
+          "name_en": "Genndy Tartakovsky",
+          "name": "\u683c\u6069\u8fea\u00b7\u5854\u5854\u79d1\u592b\u65af\u57fa",
+          "alt": "https:\/\/movie.douban.com\/celebrity\/1016727\/",
+          "id": "1016727"
+        }
+      ],
+      "pubdates": [
+        "2018-07-13(\u7f8e\u56fd)",
+        "2018-08-17(\u4e2d\u56fd\u5927\u9646)"
+      ],
+      "year": "2018",
+      "images": {
+        "small": "https://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2530591543.jpg",
+        "large": "https://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2530591543.jpg",
+        "medium": "https://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2530591543.jpg"
+      },
+      "alt": "https:\/\/movie.douban.com\/subject\/26630714\/",
+      "id": "26630714"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "average": 6.5,
+        "details": {
+          "1": 19.0,
+          "3": 279.0,
+          "2": 80.0,
+          "5": 57.0,
+          "4": 159.0
+        },
+        "stars": "35",
+        "min": 0
+      },
+      "genres": [
+        "\u52a8\u753b",
+        "\u8fd0\u52a8"
+      ],
+      "title": "\u9ed1\u5b50\u7684\u7bee\u7403\u00b7\u7ec8\u6781\u4e00\u6218",
+      "casts": [
+        {
+          "avatars": {
+            "small": "https://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p57124.jpg",
+            "large": "https://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p57124.jpg",
+            "medium": "https://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p57124.jpg"
+          },
+          "name_en": "Kensho Ono",
+          "name": "\u5c0f\u91ce\u8d24\u7ae0",
+          "alt": "https:\/\/movie.douban.com\/celebrity\/1323336\/",
+          "id": "1323336"
+        },
+        {
+          "avatars": {
+            "small": "https://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p38607.jpg",
+            "large": "https://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p38607.jpg",
+            "medium": "https://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p38607.jpg"
+          },
+          "name_en": "Yuuki Ono",
+          "name": "\u5c0f\u91ce\u53cb\u6811",
+          "alt": "https:\/\/movie.douban.com\/celebrity\/1244490\/",
+          "id": "1244490"
+        },
+        {
+          "avatars": {
+            "small": "https://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p23870.jpg",
+            "large": "https://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p23870.jpg",
+            "medium": "https://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p23870.jpg"
+          },
+          "name_en": "Hiroshi Kamiya",
+          "name": "\u795e\u8c37\u6d69\u53f2",
+          "alt": "https:\/\/movie.douban.com\/celebrity\/1274377\/",
+          "id": "1274377"
+        }
+      ],
+      "durations": [
+        "91\u5206\u949f"
+      ],
+      "collect_count": 6624,
+      "mainland_pubdate": "2018-08-24",
+      "has_video": false,
+      "original_title": "\u5287\u5834\u7248 \u9ed2\u5b50\u306e\u30d0\u30b9\u30b1 LAST GAME",
+      "subtype": "movie",
+      "directors": [
+        {
+          "avatars": {
+            "small": "https://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p8U85lWN0XyYcel_avatar_uploaded1439709593.41.jpg",
+            "large": "https://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p8U85lWN0XyYcel_avatar_uploaded1439709593.41.jpg",
+            "medium": "https://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p8U85lWN0XyYcel_avatar_uploaded1439709593.41.jpg"
+          },
+          "name_en": "Shunsuke Tada",
+          "name": "\u591a\u7530\u4fca\u4ecb",
+          "alt": "https:\/\/movie.douban.com\/celebrity\/1351274\/",
+          "id": "1351274"
+        }
+      ],
+      "pubdates": [
+        "2017-03-18(\u65e5\u672c)",
+        "2018-08-24(\u4e2d\u56fd\u5927\u9646)"
+      ],
+      "year": "2017",
+      "images": {
+        "small": "https://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2531651342.jpg",
+        "large": "https://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2531651342.jpg",
+        "medium": "https://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2531651342.jpg"
+      },
+      "alt": "https:\/\/movie.douban.com\/subject\/26615753\/",
+      "id": "26615753"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "average": 0,
+        "details": {
+          "1": 0,
+          "3": 0,
+          "2": 0,
+          "5": 0,
+          "4": 0
+        },
+        "stars": "00",
+        "min": 0
+      },
+      "genres": [
+        "\u559c\u5267",
+        "\u52a8\u753b",
+        "\u5192\u9669"
+      ],
+      "title": "\u6df1\u6d77\u5386\u9669\u8bb0",
+      "casts": [
+        {
+          "avatars": {
+            "small": "https://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1526874160.87.jpg",
+            "large": "https://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1526874160.87.jpg",
+            "medium": "https://img1.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1526874160.87.jpg"
+          },
+          "name_en": "Lu Zhang",
+          "name": "\u5f20\u7490",
+          "alt": "https:\/\/movie.douban.com\/celebrity\/1340111\/",
+          "id": "1340111"
+        },
+        {
+          "avatars": {
+            "small": "https://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1526874126.05.jpg",
+            "large": "https://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1526874126.05.jpg",
+            "medium": "https://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1526874126.05.jpg"
+          },
+          "name_en": "Hong Chen",
+          "name": "\u9648\u7ea2",
+          "alt": "https:\/\/movie.douban.com\/celebrity\/1333856\/",
+          "id": "1333856"
+        },
+        {
+          "avatars": {
+            "small": "https://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1526874097.46.jpg",
+            "large": "https://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1526874097.46.jpg",
+            "medium": "https://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1526874097.46.jpg"
+          },
+          "name_en": "Yunlong Zhang",
+          "name": "\u5f20\u4e91\u9f99",
+          "alt": "https:\/\/movie.douban.com\/celebrity\/1392570\/",
+          "id": "1392570"
+        }
+      ],
+      "durations": [
+        "92\u5206\u949f"
+      ],
+      "collect_count": 156,
+      "mainland_pubdate": "2018-08-24",
+      "has_video": false,
+      "original_title": "\u6df1\u6d77\u5386\u9669\u8bb0",
+      "subtype": "movie",
+      "directors": [
+        {
+          "avatars": {
+            "small": "https://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1527581010.4.jpg",
+            "large": "https://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1527581010.4.jpg",
+            "medium": "https://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1527581010.4.jpg"
+          },
+          "name_en": "Julio Soto Gurpide",
+          "name": "Julio Soto Gurpide",
+          "alt": "https:\/\/movie.douban.com\/celebrity\/1392567\/",
+          "id": "1392567"
+        }
+      ],
+      "pubdates": [
+        "2018-08-24(\u4e2d\u56fd\u5927\u9646)"
+      ],
+      "year": "2018",
+      "images": {
+        "small": "https://img1.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2529479778.jpg",
+        "large": "https://img1.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2529479778.jpg",
+        "medium": "https://img1.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2529479778.jpg"
+      },
+      "alt": "https:\/\/movie.douban.com\/subject\/30176525\/",
+      "id": "30176525"
+    }
+  ],
+  "title": "\u6b63\u5728\u4e0a\u6620\u7684\u7535\u5f71-\u676d\u5dde"
+}

@@ -1,0 +1,122 @@
+/* pages/search/search.wxss */
+page{
+  /* display: flex;
+  flex-direction: column; */
+  height: 100%;
+  width: 100%;
+  background-color: #f9f9f9;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+.container{
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  justify-content: center;
+  box-sizing: border-box;
+  width: 100%;
+}
+
+.poster-cover{
+  width: 100%;
+  height: 225 px;
+  background-color: #e8e8e8
+}
+
+
+.avator{
+  width: 60rpx;
+  height: 60rpx;
+}
+
+.soupport{
+  width: 30rpx;
+  height: 30rpx;
+}
+
+.title{
+  font-size: 30rpx;
+  color: #444;
+  width: 80%;
+  font-style: blod
+}
+.comment{
+   font-size: 28rpx;
+   color: #444;
+   width: 100%;
+   padding-top: 10rpx;
+}
+
+.info{
+  font-size: 20rpx;
+  color: #a8a8a8;
+  /* width: 80%; */
+  padding: 10rpx;
+}
+
+.item{
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  padding: 20rpx;
+}
+
+.item .reviewer{
+  display: flex;
+  flex-direction: row ;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: flex-end;
+  width: 100%;
+}
+.name{
+  font-size: 30rpx;
+  color: #444;
+  font-style: blod;
+  padding: 20rpx;
+  text-align: center
+}
+.item .reviewer.flexp3{
+ flex: 3
+}
+.item .reviewer.flexp1{
+ flex: 1
+}
+.numbers{
+  font-size: 20rpx;
+  color: #a8a8a8;
+  padding: 10rpx;
+}
+
+.star-text{
+  color: #ed3a4a;
+  font-size: 30rpx;
+  font-style: blod;
+  padding: 20rpx;
+}
+
+.first_title{
+    display: flex;
+    font-size: 40rpx;
+    color: #444;
+    font-style: blod;
+    padding: 20rpx;
+    width: 100%;
+    background-color: #e7e7e7;
+}
+
+.play-button{
+  width: 80rpx;
+  height: 80rpx;
+  display: flex;
+  padding: 10rpx;
+  /* background-color: #ed3a4a; */
+}
+
+.banner{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height:225px;
+}

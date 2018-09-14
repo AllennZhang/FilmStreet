@@ -1,0 +1,59 @@
+<script src="../utils/uiutils.js" module="uitools" />
+<view class='container'>
+  <!-- <image class='background' src='{{movie.images.large ? movie.images.large:pageBackground}}' mode='aspectFill'/> -->
+  <scroll-view scroll-y='true'>
+  <!-- 头部海报部分 -->
+     <view class='meta'>
+       <view class='poster_header'>
+         <image class='poster' src='{{movie.images.large}}' mode='aspectFit'/>
+        </view>
+         <view class='poster_title'>
+           <view class='main'>
+              <text class='title'>{{movie.title}}</text>
+              <view class='info'>{{movie.year}}/<block wx:for="{{movie.genres}}" wx:key='id'>{{item}}/</block></view>
+              <text class='info'>原名：{{movie.original_title}}</text>
+              <text class='info'>上映时间：{{movie.pubdate}}(中国大陆)</text>
+               <text class='info'>片长：{{movie.durations[0]}}</text>
+              <text class='info'>导演：<block>{{movie.directors[0].name}} {{movie.directors[0].name_en}}</block></text>
+              <view class="info">主演：<block wx:for="{{movie.casts}}" wx:key="id">{{item.name}} </block> </view>
+           </view>
+            <view class='rating'>
+              <text class='rating_label'>豆瓣评分：{{movie.rating.average}}</text>
+              <view>
+                          <image src='../../images/rating.png' class='soupport'/>
+            <image src='../../images/rating.png' class='soupport' hidden='{{movie.rating.average  <4 }}'/>
+            <image src='../../images/rating.png' class='soupport' hidden='{{movie.rating.average<6}}'/>
+            <image src='../../images/rating.png' class='soupport' hidden='{{movie.rating.average<8}}'/>
+            <image src='../../images/rating.png' class='soupport' hidden='{{movie.rating.average <10}}'/>
+              </view>
+              <text class='rating_label'>{{movie.ratings_count}}人</text>
+            </view>
+         </view>
+     </view>
+     <!-- 内容简介部分 -->
+      <view class="summary">
+        <text class="label">简介：</text>
+        <text class="content">{{movie.summary}}</text>
+    </view>
+    <!-- 主演 部分-->
+    <text class='first-label'>主演：</text>
+    <scroll-view scroll-x='true' class='horizontal-srcollview'>
+         <view class='horizontal_block'>
+            <view wx:for="{{movie.casts}}" wx:key="id" class='movie-item'>
+               <image src='{{item.avatars.medium}}' mode='aspectFit' class='image'/>
+               <text class='info'>{{item.name}}</text>
+               <text class='info'>{{item.name_en}}</text>
+           </view>
+        </view>
+      </scroll-view>
+      <!--  剧照 部分-->
+      <text class='first-label'>剧照</text>
+        <scroll-view scroll-x='true' class='horizontal-photos'>
+         <view class='horizontal_block'>
+            <view wx:for="{{movie.photos}}" wx:key="id" class='photo-item'>
+               <image src='{{item.cover}}' mode='aspectFit' class='photos'/>
+           </view>
+        </view>
+      </scroll-view>
+  </scroll-view>
+</view>
