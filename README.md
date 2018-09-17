@@ -8,8 +8,8 @@
 ![image](https://github.com/YouriZhang/imagefolder/blob/master/wx-project.png)
 效果图：
 <div align="left">
-   <img src="https://github.com/YouriZhang/imagefolder/blob/master/a1.png" width="200" height="500">
-   <img src="https://github.com/YouriZhang/imagefolder/blob/master/a2.png" width="200" height="500">
-   <img src="https://github.com/YouriZhang/imagefolder/blob/master/a3.png" width="200" height="500">
+   <img src="https://github.com/YouriZhang/imagefolder/blob/master/a1.png" width="250" height="500">
+   <img src="https://github.com/YouriZhang/imagefolder/blob/master/a2.png" width="250" height="500">
+   <img src="https://github.com/YouriZhang/imagefolder/blob/master/a3.png" width="250" height="500">
 </div>  
 * 感谢：https://github.com/zce/weapp-douban
