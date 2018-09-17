@@ -6,4 +6,8 @@
 项目结构：
 ```
 ![image](https://github.com/YouriZhang/imagefolder/blob/master/wx-project.png)
+效果图：
+![image](https://github.com/YouriZhang/imagefolder/blob/master/a1.png)
+![image](https://github.com/YouriZhang/imagefolder/blob/master/a2.png)
+![image](https://github.com/YouriZhang/imagefolder/blob/master/a3.png)
 * 感谢：https://github.com/zce/weapp-douban
