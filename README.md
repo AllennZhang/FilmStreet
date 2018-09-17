@@ -7,10 +7,12 @@
 ```
 ![image](https://github.com/YouriZhang/imagefolder/blob/master/wx-project.png)
 效果图：
-![image](https://github.com/YouriZhang/imagefolder/blob/master/a1.png)
-![image](https://github.com/YouriZhang/imagefolder/blob/master/a2.png)
-![image](https://github.com/YouriZhang/imagefolder/blob/master/a3.png)
+[comment]:![image](https://github.com/YouriZhang/imagefolder/blob/master/a1.png)
+[comment]:![image](https://github.com/YouriZhang/imagefolder/blob/master/a2.png)
+[comment]:![image](https://github.com/YouriZhang/imagefolder/blob/master/a3.png)
 <div align="center">
-  <img src="https://github.com/YouriZhang/imagefolder/blob/master/a1.png" width="200" height="300">
+   <img src="https://github.com/YouriZhang/imagefolder/blob/master/a1.png" width="300" height="500">
+   <img src="https://github.com/YouriZhang/imagefolder/blob/master/a2.png" width="300" height="500">
+   <img src="https://github.com/YouriZhang/imagefolder/blob/master/a3.png" width="300" height="500">
 </div>  
 * 感谢：https://github.com/zce/weapp-douban
