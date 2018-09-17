@@ -10,4 +10,5 @@
 ![image](https://github.com/YouriZhang/imagefolder/blob/master/a1.png)
 ![image](https://github.com/YouriZhang/imagefolder/blob/master/a2.png)
 ![image](https://github.com/YouriZhang/imagefolder/blob/master/a3.png)
+<img src="https://github.com/YouriZhang/imagefolder/blob/master/a1.png" width="50%" hegiht="50%" align=center />
 * 感谢：https://github.com/zce/weapp-douban
