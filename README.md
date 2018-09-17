@@ -11,6 +11,6 @@
 ![image](https://github.com/YouriZhang/imagefolder/blob/master/a2.png)
 ![image](https://github.com/YouriZhang/imagefolder/blob/master/a3.png)
 <div align="center">
-  <img src="https://github.com/YouriZhang/imagefolder/blob/master/a1.png" width="50%" height="50%">
+  <img src="https://github.com/YouriZhang/imagefolder/blob/master/a1.png" width="200" height="300">
 </div>  
 * 感谢：https://github.com/zce/weapp-douban
